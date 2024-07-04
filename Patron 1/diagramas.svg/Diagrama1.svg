@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="80cm" height="33cm" viewBox="17 39 1589 656" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Fondo">
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="18" y="45" width="391.4" height="28"/>
+      <text xml:space="preserve" font-size="16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="213.7" y="63.8516">                              Clase                              </text>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="18" y="73" width="391.4" height="84"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="21" y="86.8812">+</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="21" y="102.881">+</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="21" y="118.881">+</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="21" y="134.881">+</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="21" y="150.881">+</text>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="18" y="157" width="391.4" height="84"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="21" y="170.881">+()</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="21" y="186.881">+()</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="21" y="202.881">+()</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="21" y="218.881">+()</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="21" y="234.881">+()</text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1290" y="260" width="306.4" height="28"/>
+      <text xml:space="preserve" font-size="16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1443.2" y="278.852">                    Plantilla                    </text>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1290" y="288" width="306.4" height="84"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1293" y="301.881">+</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1293" y="317.881">+</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1293" y="333.881">+</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1293" y="349.881">+</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1293" y="365.881">+</text>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1290" y="372" width="306.4" height="68"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1293" y="385.881">+()</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1293" y="401.881">+()</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1293" y="417.881">+()</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1293" y="433.881">+()</text>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 6; stroke: #000000" x="1550.4" y="198" width="54" height="68"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1556.4" y="211.881">:</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1556.4" y="227.881">:</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1556.4" y="243.881">:</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1556.4" y="259.881">:</text>
+    </g>
+    <g>
+      <path style="fill: #008ccf; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1164.42 84.6736 L 1164.42,120.875 L 1192.02,120.875 L 1192.02,84.6736 L 1164.42,84.6736z"/>
+      <path style="fill: #8dcaef; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1164.42 121 L 1164.55,120.875 L 1164.55,84.6736 L 1164.29,84.6736 L 1164.29,120.875 L 1164.42,121z"/>
+      <path style="fill: #8dcaef; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1192.16 120.875 L 1192.02,120.741 L 1164.42,120.741 L 1164.42,121 L 1192.02,121 L 1192.16,120.875z"/>
+      <path style="fill: #8dcaef; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1192.02 84.54 L 1191.9,84.6736 L 1191.9,120.875 L 1192.16,120.875 L 1192.16,84.6736 L 1192.02,84.54z"/>
+      <path style="fill: #8dcaef; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1164.29 84.6736 L 1164.42,84.7988 L 1192.02,84.7988 L 1192.02,84.54 L 1164.42,84.54 L 1164.29,84.6736z"/>
+      <path style="fill: #009bdf; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1164.42 84.6736 L 1167.98,81.1252 L 1195.58,81.1252 L 1192.02,84.6736 L 1164.42,84.6736z"/>
+      <path style="fill: #8dcaef; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1167.98 81 L 1167.89,81.0376 L 1164.33,84.5734 L 1164.51,84.757 L 1168.08,81.2212 L 1167.98,81z"/>
+      <path style="fill: #8dcaef; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1195.67 81.2212 L 1195.58,81 L 1167.98,81 L 1167.98,81.2588 L 1195.58,81.2588 L 1195.67,81.2212z"/>
+      <path style="fill: #8dcaef; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1192.02 84.7988 L 1192.12,84.757 L 1195.67,81.2212 L 1195.49,81.0376 L 1191.93,84.5734 L 1192.02,84.7988z"/>
+      <path style="fill: #8dcaef; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1164.33 84.5734 L 1164.42,84.7988 L 1192.02,84.7988 L 1192.02,84.54 L 1164.42,84.54 L 1164.33,84.5734z"/>
+      <path style="fill: #00688f; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1192.02 84.6736 L 1195.58,81.1252 L 1195.58,117.318 L 1192.02,120.875 L 1192.02,84.6736z"/>
+      <path style="fill: #8dcaef; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1195.71 81.1252 L 1195.49,81.0376 L 1191.93,84.5734 L 1192.12,84.757 L 1195.67,81.2212 L 1195.71,81.1252z"/>
+      <path style="fill: #8dcaef; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1195.67 117.414 L 1195.71,117.318 L 1195.71,81.1252 L 1195.45,81.1252 L 1195.45,117.318 L 1195.67,117.414z"/>
+      <path style="fill: #8dcaef; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1191.9 120.875 L 1192.12,120.962 L 1195.67,117.414 L 1195.49,117.226 L 1191.93,120.779 L 1191.9,120.875z"/>
+      <path style="fill: #8dcaef; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1191.93 84.5734 L 1191.9,84.6736 L 1191.9,120.875 L 1192.16,120.875 L 1192.16,84.6736 L 1191.93,84.5734z"/>
+      <path style="fill: #1f1a17; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1183.42 97.0008 L 1188.74,97.0008 L 1188.74,94.6464 L 1183.42,94.6464 L 1183.42,86.6815 L 1171.67,95.068 L 1171.67,101.622 L 1166.78,101.622 L 1166.78,103.993 L 1171.67,103.993 L 1171.67,110.539 L 1183.42,118.917 L 1183.42,111.002 L 1188.74,111.002 L 1188.74,108.652 L 1183.42,108.652 L 1183.42,103.997 L 1188.74,103.997 L 1188.74,101.651 L 1183.42,101.651 L 1183.42,101.622 L 1183.42,97.0008z"/>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1183.15 96.717 L 1188.46,96.717 L 1188.46,94.3584 L 1183.15,94.3584 L 1183.15,86.3934 L 1171.4,94.78 L 1171.4,101.33 L 1166.51,101.33 L 1166.51,103.709 L 1171.4,103.709 L 1171.4,110.247 L 1183.15,118.629 L 1183.15,110.718 L 1188.46,110.718 L 1188.46,108.36 L 1183.15,108.36 L 1183.15,103.709 L 1188.46,103.709 L 1188.46,101.359 L 1183.15,101.359 L 1183.15,101.33 L 1183.15,96.717z"/>
+    </g>
+    <g>
+      <path style="fill: #b7b796; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.02; stroke: #000000" fill-rule="evenodd" d="M 1207.42 262.999 L 1241.41,262.999 L 1241.41,228.373 L 1207.42,228.373 L 1207.42,262.999z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.02; stroke: #494936" d="M 1207.42 262.999 L 1241.41,262.999 L 1241.41,228.373 L 1207.42,228.373 L 1207.42,262.999"/>
+      <path style="fill: #7a7a5a; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.02; stroke: #000000" fill-rule="evenodd" d="M 1248.88 257.269 L 1248.89,223.039 L 1241.46,228.374 L 1241.46,263 L 1248.88,257.271 L 1248.88,257.269z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.02; stroke: #494936" d="M 1248.88 257.269 L 1248.89,223.039 L 1241.46,228.374 L 1241.46,263 L 1248.88,257.271"/>
+      <path style="fill: #c9c9b6; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.02; stroke: #000000" fill-rule="evenodd" d="M 1241.1 228.454 L 1248.89,223.039 L 1215.22,223 L 1207.11,228.456 L 1241.1,228.456 L 1241.1,228.454z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.02; stroke: #494936" d="M 1241.1 228.454 L 1248.89,223.039 L 1215.22,223 L 1207.11,228.456 L 1241.1,228.456"/>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1212.6 257.421 L 1235.04,257.421 L 1235.04,252.17 L 1212.6,252.17 L 1212.6,257.421z"/>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1212.6 250.571 L 1235.04,250.571 L 1235.04,247.128 L 1212.6,247.128 L 1212.6,250.571z"/>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1212.6 245.422 L 1235.04,245.422 L 1235.04,242.32 L 1212.6,242.32 L 1212.6,245.422z"/>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1212.6 240.896 L 1235.04,240.896 L 1235.04,238.384 L 1212.6,238.384 L 1212.6,240.896z"/>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1212.6 236.898 L 1235.04,236.898 L 1235.04,235.415 L 1212.6,235.415 L 1212.6,236.898z"/>
+    </g>
+    <g>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 1145 322 C 1161,322 1161,346 1161,362 C 1153,362 1137,362 1129,362 C 1129,346 1129,322 1145,322z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.2; stroke: #000000" d="M 1145 322 C 1161,322 1161,346 1161,362 C 1153,362 1137,362 1129,362 C 1129,346 1129,322 1145,322"/>
+    </g>
+    <g>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 1035 474 C 1048.33,480.667 1048.33,494 1048.33,507.333 C 1041.67,500.667 1028.33,500.667 1021.67,507.333 C 1021.67,494 1021.67,480.667 1035,474z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.2; stroke: #000000" d="M 1035 474 C 1048.33,480.667 1048.33,494 1048.33,507.333 C 1041.67,500.667 1028.33,500.667 1021.67,507.333 C 1021.67,494 1021.67,480.667 1035,474"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" d="M 1021.67 514 C 1028.33,507.333 1041.67,507.333 1048.33,514"/>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="464" y="346" width="43.15" height="18"/>
+      <text font-size="11.1992" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="485.575" y="360">Tabla</text>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="464" y="364" width="43.15" height="4"/>
+    </g>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="545,321 545,341 565,341 575.264,341 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="582.764,341 572.764,346 575.264,341 572.764,336 "/>
+      <text font-size="9.59961" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="549" y="333">1</text>
+      <text font-size="9.59961" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="589" y="353">n</text>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="265" y1="431" x2="265" y2="437.667"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="285" y1="431" x2="285" y2="437.667"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="305" y1="431" x2="305" y2="437.667"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="325" y1="431" x2="325" y2="437.667"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="345" y1="431" x2="345" y2="437.667"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="365" y1="431" x2="365" y2="437.667"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="385" y1="431" x2="385" y2="437.667"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="405" y1="431" x2="405" y2="437.667"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="425" y1="431" x2="425" y2="437.667"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="445" y1="431" x2="445" y2="437.667"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="465" y1="431" x2="465" y2="437.667"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="485" y1="431" x2="485" y2="437.667"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="505" y1="431" x2="505" y2="437.667"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="525" y1="431" x2="525" y2="437.667"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="545" y1="431" x2="545" y2="437.667"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="565" y1="431" x2="565" y2="437.667"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="585" y1="431" x2="585" y2="437.667"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="605" y1="431" x2="605" y2="437.667"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="625" y1="431" x2="625" y2="437.667"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="645" y1="431" x2="645" y2="437.667"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="665" y1="431" x2="665" y2="437.667"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="265" y1="431" x2="265" y2="451"/>
+      <text font-size="16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="265" y="465.852">0</text>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="365" y1="431" x2="365" y2="451"/>
+      <text font-size="16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="365" y="465.852">5</text>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="465" y1="431" x2="465" y2="451"/>
+      <text font-size="16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="465" y="465.852">10</text>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="565" y1="431" x2="565" y2="451"/>
+      <text font-size="16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="565" y="465.852">15</text>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="665" y1="431" x2="665" y2="451"/>
+      <text font-size="16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="665" y="465.852">20</text>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="265" y1="431" x2="665" y2="431"/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 4; stroke: #7f7f7f" x1="615" y1="604" x2="1015" y2="604"/>
+      <polygon style="fill: #ff7f7f; fill-opacity: 1; stroke: none" fill-rule="evenodd" points="615,664 615,604 1015,604 1015,664 "/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #ff0000" x1="615" y1="604" x2="1015" y2="604"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="615" y1="664" x2="1015" y2="664"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="615" y1="664" x2="615" y2="604"/>
+      <text font-size="16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:end;font-family:sans-serif;font-style:normal;font-weight:normal" x="613" y="658.852"/>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="478" y="227" width="81.9" height="36"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="518.95" y="248.881">Entidad</text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="746,387.48 796.8,357 847.6,387.48 796.8,417.96 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="740" y="381.48"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="853.6" y="381.48"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="796.8" y="391.361">Relación</text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="869" y="266" width="81.9" height="36"/>
+      <rect style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="874" y="271" width="71.9" height="26"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="909.95" y="287.881">Entidad</text>
+    </g>
+    <g>
+      <ellipse style="fill: #ffffff; fill-opacity: 1; stroke: none" cx="910.725" cy="335" rx="45.725" ry="18"/>
+      <ellipse style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" cx="910.725" cy="335" rx="45.725" ry="18"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="910.725" y="338.881">Atributo</text>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="885" y1="343" x2="936.45" y2="343"/>
+    </g>
+    <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="685,387 685,407 705,407 725,407 "/>
+    <g>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2.4; stroke: #000000" fill-rule="evenodd" d="M 929.4 196 C 944.4,199 951.6,199 966.6,196 C 981.6,193 981.6,229 966.6,226 C 951.6,223 944.4,223 929.4,226 C 914.4,229 914.4,193 929.4,196z"/>
+      <text font-size="11.1992" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="948" y="214.395">
+        <tspan x="948" y="214.395"></tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="448,648 468,670 448,692 428,670 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="448.4" y="674.321">
+        <tspan x="448.4" y="674.321"></tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="426,526 466,526 466,566 426,566 "/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="430" y1="526" x2="430" y2="566"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="462" y1="526" x2="462" y2="566"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="446" y="549.881">
+        <tspan x="446" y="549.881"></tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="779" y="483" width="80" height="80"/>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="779" y="463" width="40" height="20"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="781" y="477.981"/>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1099" y="432" width="50" height="28"/>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1099" y="414" width="30" height="18"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1105" y="449.881">
+        <tspan x="1105" y="449.881"></tspan>
+      </text>
+    </g>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="410.399,143 460,143 460,350 1289,350 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke: none" fill-rule="evenodd" points="464,246.5 464,238.5 472,242.5 "/>
+    </g>
+    <g>
+      <ellipse style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" cx="736" cy="174" rx="6" ry="6"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="712" y1="186" x2="760" y2="186"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="736" y1="180" x2="736" y2="210"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="736" y1="210" x2="712" y2="236"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="736" y1="210" x2="760" y2="236"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="736" y="259.881">
+        <tspan x="736" y="259.881">Actor</tspan>
+      </text>
+    </g>
+    <g>
+      <ellipse style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" cx="737.5" cy="93" rx="32.5" ry="20"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="737.5" y="96.8811">
+        <tspan x="737.5" y="96.8811"></tspan>
+      </text>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="829" y1="51" x2="829" y2="61"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="829" y1="101" x2="829" y2="279"/>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="822" y="61" width="14" height="40"/>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="518" y="40" width="136.7" height="57"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="586.35" y="82.8811">
+        <tspan x="586.35" y="82.8811"></tspan>
+      </text>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="586.35" y="66">&lt;&lt;yflouihjgjkh&gt;&gt;</text>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="586.35" y1="85.8998" x2="586.35" y2="85.8998"/>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="328" y="335" width="60" height="70"/>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="308" y="349" width="40" height="14"/>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="308" y="377" width="40" height="14"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="356" y="360.881">
+        <tspan x="356" y="360.881"></tspan>
+      </text>
+    </g>
+  </g>
+</svg>

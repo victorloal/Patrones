@@ -1,6 +1,1 @@
-{
-    "Usos": {
-        "Uso": "",
-        "Patrones": ["Patron1","Patron2"]
-    }
-}
+{"Usos": {"Ejemplo 1": ["Patron1"]}}

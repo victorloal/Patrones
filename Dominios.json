@@ -1,3 +1,1 @@
-{
-    "Dominios":{"nombreDominio":["Requisitos"]}
-}
+{"Dominios": {"Dominio Ejemplo 1": ["Requisito1", "Requisito2"], "Dominio Ejemplo 2": ["Requisito1", "Requisito2", "Requisito3"]}}

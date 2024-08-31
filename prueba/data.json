@@ -1,0 +1,14 @@
+{
+    "Name": "prueba",
+    "Domains": [
+        "dominio prueba"
+    ],
+    "Description": "este es un patron de prueba",
+    "RelatedPatterns": [],
+    "Uses": [
+        "uso de prueba"
+    ],
+    "Requirements": [
+        "requisito 2"
+    ]
+}

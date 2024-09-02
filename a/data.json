@@ -1,0 +1,17 @@
+{
+    "Name": "a",
+    "Domains": {
+        "key": "a",
+        "value": {
+            "Nuevo Requisito": "a"
+        }
+    },
+    "Description": "a",
+    "RelatedPatterns": [],
+    "Uses": [
+        "a"
+    ],
+    "Requirements": [
+        "Nuevo Requisito"
+    ]
+}

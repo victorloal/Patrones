@@ -1,0 +1,22 @@
+{
+    "Name": "patron 1",
+    "Domains": {
+        "key": "dominio 1",
+        "value": {
+            "requisito 2 dominio 1": "dominio 1",
+            "requisito 1 dominio 1": "dominio 1"
+        }
+    },
+    "Description": "patron de prueba",
+    "RelatedPatterns": [
+        "patron 1"
+    ],
+    "Uses": [
+        "uso 1"
+    ],
+    "Rol": [
+        "rol 3",
+        "rol 2",
+        "rol 1"
+    ]
+}

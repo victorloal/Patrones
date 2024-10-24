@@ -4,31 +4,51 @@
             "requisito 1 dominio 1",
             "requisito 2 dominio 1"
         ],
-        "dominio 2": [
-            "requisito 1 dominio 2",
-            "requisito 2 dominio 2"
+        "dominio 3": [
+            "requisito 3 dominio 3",
+            "requisito 2 dominio 3",
+            "requisito 1 dominio 3"
         ]
     },
     "DomainsWithPatterns": {
         "dominio 1": [
-            "patron 1"
+            "patron 1",
+            "patron 2"
+        ],
+        "dominio 3": [
+            "patron 2"
         ]
     },
     "RolwithPatterns": {
         "rol 2": [
-            "patron 1"
+            "patron 1",
+            "patron 2"
         ],
         "rol 3": [
-            "patron 1"
+            "patron 1",
+            "patron 2"
         ],
         "rol 1": [
-            "patron 1"
+            "patron 1",
+            "patron 2"
+        ],
+        "rol 7": [
+            "patron 2"
+        ],
+        "rol 5": [
+            "patron 2"
+        ],
+        "rol 6": [
+            "patron 2"
         ]
     },
     "Uses": {
         "uso 1": [
-            "patron 1"
+            "patron 1",
+            "patron 2"
         ],
-        "uso 2": []
+        "uso 2": [
+            "patron 2"
+        ]
     }
 }

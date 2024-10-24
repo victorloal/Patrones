@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="66cm" height="31cm" viewBox="-148 -87 1317 616" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs/>
+  <g id="Fondo">
+    <path style="fill: #b552c1; fill-opacity: 0.521569; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 160.002 -85.75 C -8.84802,-85.75 -146.998,52.4 -146.998,221.25 C -146.998,390.1 -8.84802,528.25 160.002,528.25 C 328.852,528.25 467.002,390.1 467.002,221.25 C 467.002,52.4 328.852,-85.75 160.002,-85.75z"/>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="-130.034" y="198.501" width="253" height="38" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="-3.534" y="221.382">
+        <tspan xml:space="preserve" x="-3.534" y="221.382">            Rol 5             </tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="194.966" y="198.501" width="253" height="38" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="321.466" y="221.382">
+        <tspan xml:space="preserve" x="321.466" y="221.382">            Rol 7             </tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="24.966" y="341.5" width="253" height="38" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="151.466" y="364.381">
+        <tspan xml:space="preserve" x="151.466" y="364.381">            Rol 6             </tspan>
+      </text>
+    </g>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="122.966" y1="217.5" x2="193.987" y2="217.5"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="-3.53406" y1="236.5" x2="151.466" y2="341.5"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="321.466" y1="236.5" x2="151.466" y2="341.5"/>
+    <text font-size="12.4178" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="158.293" y="47.1497">
+      <tspan xml:space="preserve" x="158.293" y="47.1497">        COLABORACION 2        </tspan>
+    </text>
+    <g>
+      <ellipse style="fill: #c87ece; fill-opacity: 0.376471; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 20; stroke: #000000" cx="879.014" cy="70.9876" rx="139.5" ry="46.5"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="879.014" y="74.8689">
+        <tspan xml:space="preserve" x="879.014" y="74.8689">        COLABORACION 2        </tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="589.728" y="164.674" width="253" height="38" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="716.228" y="187.555">
+        <tspan xml:space="preserve" x="716.228" y="187.555">            Rol 5             </tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="914.728" y="164.674" width="253" height="38" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1041.23" y="187.555">
+        <tspan xml:space="preserve" x="1041.23" y="187.555">            Rol 7             </tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="744.728" y="307.674" width="253" height="38" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="871.228" y="330.555">
+        <tspan xml:space="preserve" x="871.228" y="330.555">            Rol 6             </tspan>
+      </text>
+    </g>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="842.728" y1="183.674" x2="913.749" y2="183.674"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="716.228" y1="202.674" x2="871.228" y2="307.674"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1041.23" y1="202.674" x2="871.228" y2="307.674"/>
+  </g>
+</svg>

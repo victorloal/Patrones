@@ -1,7 +1,7 @@
 {
-    "Name": "patron 1",
+    "Name": "patron 2",
     "Domains": {
-        "key": "dominio 1",
+        "key": "dominio 3",
         "value": {
             "requisito 2 dominio 1": "dominio 1",
             "requisito 1 dominio 1": "dominio 1"
@@ -13,11 +13,11 @@
         "patron 2"
     ],
     "Uses": [
-        "uso 1"
+        "uso 2"
     ],
     "Rol": [
-        "rol 1",
-        "rol 2",
-        "rol 3"
+        "rol 6",
+        "rol 7",
+        "rol 5"
     ]
 }
